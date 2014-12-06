@@ -1,0 +1,14 @@
+atom-beautify@0.17.1
+atom-prairie-twilight-dark-syntax@0.0.0
+base16-ocean-dark-spacegray@0.9.0
+base16-ocean-light-syntax@0.1.0
+color-picker@1.2.6
+layout-manager@0.2.3
+linter@0.8.0
+linter-jshint@0.1.0
+merge-conflicts@1.2.8
+minimap@3.4.5
+prairie-twilight-syntax@0.24.0
+regex-railroad-diagram@0.6.3
+term2@0.9.4
+
