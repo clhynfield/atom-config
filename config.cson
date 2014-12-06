@@ -1,10 +1,11 @@
 'global':
   'editor':
-    'fontSize': 13
     'fontFamily': 'Menlo'
     'showIndentGuide': true
     'showInvisibles': true
     'softWrapAtPreferredLineLength': true
+    'fontSize': 13
+    'tabLength': 4
   'core':
     'themes': [
       'atom-light-ui'
@@ -39,4 +40,3 @@
     'showIconsInEditorGutter': true
   'atom-beautify':
     '_analyticsUserId': '6a84b048-e107-45ce-905e-02758ba1c46f'
-  'linter': {}
