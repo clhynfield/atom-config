@@ -40,3 +40,9 @@
     'showIconsInEditorGutter': true
   'atom-beautify':
     '_analyticsUserId': '6a84b048-e107-45ce-905e-02758ba1c46f'
+'.js.regexp.source':
+  'editor':
+    'tabLength': 2
+'.json.source':
+  'editor':
+    'tabLength': 2
