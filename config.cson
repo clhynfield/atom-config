@@ -40,7 +40,6 @@
     'showIconsInEditorGutter': true
   'atom-beautify':
     '_analyticsUserId': '6a84b048-e107-45ce-905e-02758ba1c46f'
-  'linter': {}
   'save-session':
     'dataSaveFolder': '/Users/clayton/.atom/packages/save-session/projects'
     'project': '/Users/clayton/.atom'
@@ -51,5 +50,11 @@
   'editor':
     'tabLength': 2
 '.json.source':
+  'editor':
+    'tabLength': 2
+'.litcoffee.source':
+  'editor':
+    'tabLength': 2
+'.coffee.source':
   'editor':
     'tabLength': 2
