@@ -4,8 +4,8 @@
     'showIndentGuide': true
     'showInvisibles': true
     'softWrapAtPreferredLineLength': true
-    'fontSize': 13
     'tabLength': 4
+    'fontSize': 13
   'core':
     'themes': [
       'atom-light-ui'
@@ -40,6 +40,10 @@
     'showIconsInEditorGutter': true
   'atom-beautify':
     '_analyticsUserId': '6a84b048-e107-45ce-905e-02758ba1c46f'
+  'markdown-preview': {}
+  'save-session':
+    'dataSaveFolder': '/Users/clayton/.atom/packages/save-session/projects'
+    'project': '/Users/clayton/.atom'
 '.js.regexp.source':
   'editor':
     'tabLength': 2

@@ -10,5 +10,6 @@ merge-conflicts@1.2.8
 minimap@3.4.5
 prairie-twilight-syntax@0.24.0
 regex-railroad-diagram@0.6.3
+save-session@0.11.0
 term2@0.9.4
 
