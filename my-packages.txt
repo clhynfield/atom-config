@@ -3,6 +3,7 @@ atom-prairie-twilight-dark-syntax@0.0.0
 base16-ocean-dark-spacegray@0.9.0
 base16-ocean-light-syntax@0.1.0
 color-picker@1.2.6
+git-plus@4.2.3
 layout-manager@0.2.3
 linter@0.8.0
 linter-jshint@0.1.0
