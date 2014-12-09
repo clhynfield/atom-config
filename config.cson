@@ -6,6 +6,7 @@
     'softWrapAtPreferredLineLength': true
     'tabLength': 4
     'fontSize': 13
+    'invisibles': {}
   'core':
     'themes': [
       'atom-light-ui'
@@ -44,6 +45,12 @@
     'dataSaveFolder': '/Users/clayton/.atom/packages/save-session/projects'
     'project': '/Users/clayton/.atom'
 '.js.regexp.source':
+  'editor':
+    'tabLength': 2
+'.basic.html.text':
+  'editor':
+    'tabLength': 2
+'.css.source':
   'editor':
     'tabLength': 2
 '.js.source':
