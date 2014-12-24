@@ -10,7 +10,7 @@
   'core':
     'themes': [
       'atom-light-ui'
-      'prairie-twilight-syntax'
+      'prairie-dawn-syntax'
     ]
     'projectHome': '/Users/clayton/Documents/github'
   'exception-reporting':
