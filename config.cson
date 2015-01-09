@@ -1,11 +1,11 @@
 '*':
   'editor':
     'fontFamily': 'Menlo'
-    'showIndentGuide': true
-    'showInvisibles': true
-    'softWrapAtPreferredLineLength': true
-    'tabLength': 4
     'fontSize': 13
+    'showInvisibles': true
+    'showIndentGuide': true
+    'tabLength': 4
+    'softWrapAtPreferredLineLength': true
     'invisibles': {}
   'core':
     'themes': [
@@ -53,18 +53,18 @@
 '.basic.html.text':
   'editor':
     'tabLength': 2
-'.css.source':
-  'editor':
-    'tabLength': 2
-'.js.source':
-  'editor':
-    'tabLength': 2
-'.json.source':
+'.coffee.source':
   'editor':
     'tabLength': 2
 '.litcoffee.source':
   'editor':
     'tabLength': 2
-'.coffee.source':
+'.json.source':
+  'editor':
+    'tabLength': 2
+'.js.source':
+  'editor':
+    'tabLength': 2
+'.css.source':
   'editor':
     'tabLength': 2
