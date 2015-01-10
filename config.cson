@@ -41,14 +41,6 @@
     'showIconsInEditorGutter': true
   'atom-beautify':
     '_analyticsUserId': '6a84b048-e107-45ce-905e-02758ba1c46f'
-  'save-session':
-    'project': '/Users/clayton/.atom'
-    'windowX': 0
-    'windowY': 23
-    'windowWidth': 1440
-    'windowHeight': 873
-    'treeSize': 201
-    'dataSaveFolder': '/Users/clayton/.atom/packages/save-session/projects'
   'linter': {}
 '.basic.html.text':
   'editor':
