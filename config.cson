@@ -1,62 +1,50 @@
-'*':
-  'editor':
-    'fontFamily': 'Menlo'
-    'fontSize': 13
-    'showInvisibles': true
-    'showIndentGuide': true
-    'tabLength': 4
-    'softWrapAtPreferredLineLength': true
-    'invisibles': {}
-  'core':
-    'themes': [
-      'atom-light-ui'
-      'prairie-dawn-syntax'
+"*":
+  editor:
+    fontFamily: "Menlo"
+    fontSize: 13
+    showInvisibles: true
+    showIndentGuide: true
+    tabLength: 4
+    softWrapAtPreferredLineLength: true
+    invisibles: {}
+  core:
+    disabledPackages: [
+      "term2"
     ]
-    'projectHome': '/Users/clayton/Documents/github'
-  'exception-reporting':
-    'userId': '1ea9a853-d4ff-9c8d-a7d0-7176e680f622'
-  'welcome':
-    'showOnStartup': false
-  'term2':
-    'colors':
-      'normalWhite': '#faf1d4'
-      'background': '#19263b'
-      'brightBlack': '#253043'
-      'brightBlue': '#2679cc'
-      'brightCyan': '#008b94'
-      'brightGreen': '#3b863f'
-      'brightPurple': '#8468bc'
-      'brightRed': '#92689b'
-      'brightWhite': '#eae2c9'
-      'brightYellow': '#857819'
-      'foreground': '#818482'
-      'normalBlack': '#19263b'
-      'normalBlue': '#5578af'
-      'normalCyan': '#00858a'
-      'normalGreen': '#548253'
-      'normalPurple': '#816da4'
-      'normalRed': '#ad6164'
-      'normalYellow': '#83773e'
-  'git-diff':
-    'showIconsInEditorGutter': true
-  'atom-beautify':
-    '_analyticsUserId': '6a84b048-e107-45ce-905e-02758ba1c46f'
-  'linter': {}
-'.basic.html.text':
-  'editor':
-    'tabLength': 2
-'.coffee.source':
-  'editor':
-    'tabLength': 2
-'.litcoffee.source':
-  'editor':
-    'tabLength': 2
-'.json.source':
-  'editor':
-    'tabLength': 2
-'.js.source':
-  'editor':
-    'tabLength': 2
-'.css.source':
-  'editor':
-    'tabLength': 2
+    themes: [
+      "atom-light-ui"
+      "prairie-dawn-syntax"
+    ]
+    projectHome: "/Users/clayton/Documents/github"
+  "exception-reporting":
+    userId: "1ea9a853-d4ff-9c8d-a7d0-7176e680f622"
+  welcome:
+    showOnStartup: false
+  term2:
+    colors:
+      normalWhite: "#faf1d4"
+      background: "#19263b"
+      brightBlack: "#253043"
+      brightBlue: "#2679cc"
+      brightCyan: "#008b94"
+      brightGreen: "#3b863f"
+      brightPurple: "#8468bc"
+      brightRed: "#92689b"
+      brightWhite: "#eae2c9"
+      brightYellow: "#857819"
+      foreground: "#818482"
+      normalBlack: "#19263b"
+      normalBlue: "#5578af"
+      normalCyan: "#00858a"
+      normalGreen: "#548253"
+      normalPurple: "#816da4"
+      normalRed: "#ad6164"
+      normalYellow: "#83773e"
+  "git-diff":
+    showIconsInEditorGutter: true
+  "atom-beautify":
+    _analyticsUserId: "6a84b048-e107-45ce-905e-02758ba1c46f"
+  linter:
+    showErrorInline: true
+    statusBar: "Show error if the cursor is in range"
+  emmet: {}
