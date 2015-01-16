@@ -7,11 +7,6 @@
     tabLength: 4
     softWrapAtPreferredLineLength: true
     invisibles: {}
-    themes: [
-      "atom-light-ui"
-      "prairie-dawn-syntax"
-    ]
-    projectHome: "/Users/clayton/Documents/github"
   "exception-reporting":
     userId: "1ea9a853-d4ff-9c8d-a7d0-7176e680f622"
   welcome:
@@ -24,3 +19,9 @@
     showErrorInline: true
     statusBar: "Show error if the cursor is in range"
   emmet: {}
+  core:
+    themes: [
+      "atom-light-ui"
+      "prairie-dawn-syntax"
+    ]
+    projectHome: "/Users/clayton/Documents"
