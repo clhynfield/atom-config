@@ -24,3 +24,21 @@
       "prairie-dawn-syntax"
     ]
     projectHome: "/Users/clayton/Documents"
+".basic.html.text":
+  editor:
+    tabLength: 2
+".litcoffee.source":
+  editor:
+    tabLength: 2
+".json.source":
+  editor:
+    tabLength: 2
+".js.source":
+  editor:
+    tabLength: 2
+".coffee.source":
+  editor:
+    tabLength: 2
+".css.source":
+  editor:
+    tabLength: 2
